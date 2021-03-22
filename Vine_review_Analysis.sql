@@ -91,6 +91,7 @@ SELECT review_id
 FROM vine_program_paid
 WHERE star_rating = 5;
 
+
 -- Unpaid:
 /*SELECT COUNT(review_id), star_rating FROM vine_program_unpaid
 GROUP BY vine_program_unpaid.star_rating;*/
@@ -102,7 +103,6 @@ WHERE star_rating = 5;
 -- Determine the percentage of 5-star reviews: (total 5 stars reviews * 100 / total reviews)
 
 -- Paid:
-
 SELECT COUNT(f.review_id) AS "Total Numbers Reviews 5-stars",
 	   COUNT(v.review_id) AS "Total Numbers Reviews",
 	   (COUNT(f.review_id) * 100 / COUNT(v.review_id)) AS "Percentage Review 5-stars"
