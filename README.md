@@ -37,6 +37,6 @@ Looking at the not Vine program reviews (unpaid):
 
 In regard of the results there are fewer reviews for the paid  program (48.266) in comparison of the unpaid (103.183). The percentage of 5-stars reviews is higher for the paid program (56% > 49%).<br>
 We can conclude that reviewer tends to give a better ratings in the paid program keeping in mind that there is less review given.
-Knowing that one Vine program require payment, it might have a bias in the results given the fact that reviewer is required to give a review.
+Knowing that the Vine program require payment, it might have a bias in the results given the fact that reviewer is required to give a review.
 <br>
-An additional analysis could consist of analyse only showcasing results between two paid Vine programs and not between a paid and unpaid ones.
+An additional analysis could consist of analyse only showcasing results between two paid programs focus on the same topics (Vine) and not between a paid and unpaid ones.
